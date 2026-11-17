@@ -1,0 +1,96 @@
+
+========== PORT SCAN REPORT ==========
+Target IP: 127.0.0.1
+Scan date: 2026-11-17 11:12:05
+Ports scanned: 80-82
+
+Scan Results:
+Port 80 is OPEN
+Port 81 is CLOSED
+Port 82 is CLOSED
+
+Scan Summary:
+Open ports: 1
+Closed ports: 2
+Timed-out ports: 0
+Total scanned: 3
+Scan duration: 4.09 seconds
+======================================
+
+========== PORT SCAN REPORT ==========
+Target IP: 127.0.0.1
+Scan date: 2026-11-17 11:13:18
+Ports scanned: 80-82
+
+Scan Results:
+Port 80 is OPEN
+Port 81 is CLOSED
+Port 82 is CLOSED
+
+Scan Summary:
+Open ports: 1
+Closed ports: 2
+Timed-out ports: 0
+Total scanned: 3
+Scan duration: 4.09 seconds
+======================================
+
+========== PORT SCAN REPORT ==========
+Target IP: 127.0.0.1
+Scan date: 2026-11-17 11:22:49
+Ports scanned: 80-82
+
+Scan Results:
+Port 80 is OPEN
+Port 81 is CLOSED
+Port 82 is CLOSED
+
+Scan Summary:
+Open ports: 1
+Closed ports: 2
+Timed-out ports: 0
+Error ports: 0
+Total scanned: 3
+Scan duration: 4.07 seconds
+======================================
+
+========== PORT SCAN REPORT ==========
+Target IP: 127.0.0.1
+Scan date: 2026-11-17 11:48:53
+Ports scanned: 80-85
+
+Scan Results:
+Port 80 is OPEN
+Port 81 is CLOSED
+Port 82 is CLOSED
+Port 83 is CLOSED
+Port 84 is CLOSED
+Port 85 is CLOSED
+
+Scan Summary:
+Open ports: 1
+Closed ports: 5
+Timed-out ports: 0
+Error ports: 0
+Total scanned: 6
+Scan duration: 10.18 seconds
+======================================
+
+========== PORT SCAN REPORT ==========
+Target IP: 127.0.0.1
+Scan date: 2026-11-17 11:49:27
+Ports scanned: 80-82
+
+Scan Results:
+Port 80 is OPEN
+Port 81 is CLOSED
+Port 82 is CLOSED
+
+Scan Summary:
+Open ports: 1
+Closed ports: 2
+Timed-out ports: 0
+Error ports: 0
+Total scanned: 3
+Scan duration: 4.05 seconds
+======================================
